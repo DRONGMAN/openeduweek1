@@ -3,7 +3,8 @@
   {
     "/*":
     {
-      "X-Author":"dron_gman"
+      "X-Author":"dron_gman",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
